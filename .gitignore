@@ -1,0 +1,9 @@
+# Compiled binaries
+bserve
+bcurl
+
+# Debug symbols (macOS)
+*.dSYM/
+
+# Temp test files
+/tmp/bhttp_*.txt
